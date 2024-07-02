@@ -3,3 +3,7 @@ langchain_community
 langchain_chroma
 langchain-openai
 bs4
+python-dotenv
+jupyter
+ipykernel
+langchainhub
